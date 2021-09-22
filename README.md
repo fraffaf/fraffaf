@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there
+I am a PetrSU graduate
+This is where my projects will be stored
 
+my contacts: <br />telegram:@Akkellaa<br />
+vk:https://vk.com/urfirstscum
 <!--
 **fraffaf/fraffaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
