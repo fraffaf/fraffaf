@@ -1,6 +1,6 @@
 ### Hi there
-I am a PetrSU graduate
-This is where my projects will be stored
+I am a PetrSU graduate.<br />
+This is where my projects will be stored.
 
 my contacts: <br />telegram:@Akkellaa<br />
 vk:https://vk.com/urfirstscum
