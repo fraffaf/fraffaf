@@ -3,7 +3,6 @@ I am a PetrSU graduate.<br />
 This is where my projects will be stored.
 
 my contacts: <br />telegram:@Akkellaa<br />
-vk:https://vk.com/id154582555
 <!--
 **fraffaf/fraffaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
